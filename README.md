@@ -1,10 +1,15 @@
 # Uma Introdução à Linguagem Potigol
 
-## Esquenta SE4FP 2025
+## Teste o Potigol
+[![Execute direto no GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/potigol/potigol-codespace?quickstart=1)
 
-<a href="slides.pdf"><img src="potigol.png" width="300"></a>
+## Esquenta SE4FP 2025
 
 [Slides](slides.pdf)
 
-## Teste o Potigol
-[![Execute direto no GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/potigol/potigol-codespace?quickstart=1)
+<embed src="slides.pdf" type="application/pdf">
+
+<a href="slides.pdf"><img src="potigol.png" width="200"></a>
+
+
+
