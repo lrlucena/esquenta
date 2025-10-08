@@ -2,7 +2,7 @@
 
 ## Esquenta SE4FP 2025
 
-<a href="slides.pdf"><img src="esquenta_potigol.png" width="300"></a>
+<a href="slides.pdf"><img src="potigol.png" width="300"></a>
 
 [Slides](slides.pdf)
 
